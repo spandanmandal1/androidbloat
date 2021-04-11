@@ -2,9 +2,10 @@
 
 ## Requirement
 
-- `ADB`
+- ADB
+`Depending on your package manager the package name might vary
 > yay -S android-sdk android-tools
-- `Android Mobile`
+- Android Mobile
 
 ## Steps
 
