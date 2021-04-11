@@ -3,8 +3,10 @@
 ## Requirement
 
 - ADB
-`Depending on your package manager the package name might vary
-> yay -S android-sdk android-tools
+>Depending on your package manager the package name might vary
+```bash
+yay -S android-sdk android-tools
+```
 - Android Mobile
 
 ## Steps
