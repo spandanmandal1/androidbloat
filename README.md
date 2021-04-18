@@ -19,3 +19,4 @@ Run
 ```bash
 adb shell pm list packages > pkglist
 ```
+> For modify host file mobile must be rooted
