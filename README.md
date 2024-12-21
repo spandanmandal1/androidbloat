@@ -13,7 +13,7 @@ yay -S android-sdk android-tools
 
 Connect device with `adb` and test with:
 ```bash
-adb decives
+adb devices
 ```
 Run 
 ```bash
